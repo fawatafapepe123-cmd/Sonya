@@ -117,8 +117,11 @@ export default function App() {
               className="z-20 text-center"
             >
               <h2 className="text-pink-deep font-mono text-xl tracking-[0.3em] uppercase glow-text mb-2">
-                Decrypted
+                Для Sonya ❤️
               </h2>
+              <p className="text-2xl md:text-4xl font-light text-white mt-6">
+                I love you Sonya
+              </p>
               <div className="w-12 h-px bg-pink-deep/30 mx-auto mb-8" />
               
               <motion.button
